@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 import streamlit as st
-pip install sklearn
+!pip install sklearn
 
 FOLDER_PATH=""
 STUDENT_TRAINED_MODEL_FILENAME = FOLDER_PATH+"model_diabetes.pickle"
