@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import streamlit as st
 
-FOLDER_PATH="C:/Users/aakru/HW3/webplatform_dash/"
+FOLDER_PATH="./webplatform_dash/"
 STUDENT_TRAINED_MODEL_FILENAME = FOLDER_PATH+"model_diabetes.pickle"
 file_path=STUDENT_TRAINED_MODEL_FILENAME 
 with open(file_path,'rb') as readfile:
