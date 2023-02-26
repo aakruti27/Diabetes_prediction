@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 import streamlit as st
-import sikit-learn as sklearn
+import scikit-learn as sklearn
 
 FOLDER_PATH=""
 STUDENT_TRAINED_MODEL_FILENAME = FOLDER_PATH+"model_diabetes.pickle"
