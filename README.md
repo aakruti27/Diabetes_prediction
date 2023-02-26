@@ -18,3 +18,5 @@
 
   
 - This was run using Anaconda, with python version 3.9.13 :white_check_mark:. Note that "streamlit run" does not work with version 3.9.7 :negative_squared_cross_mark: 
+
+- Click [here] (https://aakruti27-diabetes-predictionapp-st-trialapp-cxov5e.streamlit.app/) to check out the dibetes prediction web app
